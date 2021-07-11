@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="left">
       - 🔭 I’m currently working on go<br/>
       - 🌱 I’m currently learning ...<br/>
       - 👯 I’m looking to collaborate on ...<br/>
@@ -28,10 +28,12 @@ Here are some ideas to get you started:
       - 😄 Pronouns: ...<br/>
       - ⚡ Fun fact: ...<br/>
       </td>
-          ![](https://github-readme-stats.vercel.app/api?username=yao-yue)
+         
     </tr>
+    
   </tbody>
 </table>
+ ![](https://github-readme-stats.vercel.app/api?username=yao-yue)
 
 
 
