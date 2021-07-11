@@ -28,10 +28,13 @@ Here are some ideas to get you started:
       - 😄 Pronouns: ...<br/>
       - ⚡ Fun fact: ...<br/>
       </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yao-yue" alt="show">
+      </td>
     </tr>
   </tbody>
 </table>
- ![](https://github-readme-stats.vercel.app/api?username=yao-yue)
+
 
 
 
