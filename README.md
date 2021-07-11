@@ -28,9 +28,7 @@ Here are some ideas to get you started:
       - 😄 Pronouns: ...<br/>
       - ⚡ Fun fact: ...<br/>
       </td>
-         
     </tr>
-    
   </tbody>
 </table>
  ![](https://github-readme-stats.vercel.app/api?username=yao-yue)
