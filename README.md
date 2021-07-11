@@ -19,17 +19,20 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td align="left">
-      - 🔭 I’m currently working on go<br/>
-      - 🌱 I’m currently learning ...<br/>
-      - 👯 I’m looking to collaborate on ...<br/>
-      - 🤔 I’m looking for help with ...<br/>
-      - 💬 Ask me about ...<br/>
-      - 📫 How to reach me: ...<br/>
-      - 😄 Pronouns: ...<br/>
-      - ⚡ Fun fact: ...<br/>
+     🔭 I’m currently working on go<br/>
+      🌱 I’m currently learning ...<br/>
+      👯 I’m looking to collaborate on ...<br/>
+     🤔 I’m looking for help with ...<br/>
+     💬 Ask me about ...<br/>
+     📫 How to reach me: ...<br/>
+    😄 Pronouns: ...<br/>
+     ⚡ Fun fact: 我需要睡觉 睡觉 睡觉...<br/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=yao-yue" alt="show">
+      </td>
+      <td>
+        <img src="./images/go_head.png" alt="go_head">
       </td>
     </tr>
   </tbody>
