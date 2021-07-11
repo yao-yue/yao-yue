@@ -26,7 +26,7 @@ Here are some ideas to get you started:
      💬 Ask me about ...<br/>
      📫 How to reach me: ...<br/>
     😄 Pronouns: ...<br/>
-     ⚡ Fun fact: 我需要睡觉 睡觉 睡觉...<br/>
+   ⚡ 我需要睡觉 睡觉 睡觉...<br/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=yao-yue" alt="show" object-fit="cover">
