@@ -29,10 +29,10 @@ Here are some ideas to get you started:
      ⚡ Fun fact: 我需要睡觉 睡觉 睡觉...<br/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yao-yue" alt="show">
+        <img src="https://github-readme-stats.vercel.app/api?username=yao-yue" alt="show" object-fit="cover">
       </td>
       <td>
-        <img src="./images/go_head.png" alt="go_head">
+        <img src="./images/go_head.png" alt="go_head" object-fit="cover">
       </td>
     </tr>
   </tbody>
