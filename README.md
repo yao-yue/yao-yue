@@ -19,14 +19,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td align="left">
-     🔭 go go go<br/>
-      🌱  go go go...<br/>
-      👯  go go go...<br/>
-     🤔  go go go...<br/>
-     💬  go go go...<br/>
-     📫  go go go ...<br/>
-    😄  go go go.<br/>
-   ⚡ 我需要睡觉 睡觉 睡觉...<br/>
+      重回coding 敲代码多快乐
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=yao-yue" alt="show" object-fit="cover">
